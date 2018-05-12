@@ -7,22 +7,6 @@ The project provides a simple way to navigate through the maze using the up/down
 
 The project is using a default maze but can be changed to any other maze in the text file located at "MazeExplorer.ConsoleApp\Resources\ExampleMaze.txt".
 
-XXXXXXXXXXXXXXX
-X             X
-X XXXXXXXXXXX X
-X XS        X X
-X XXXXXXXXX X X
-X XXXXXXXXX X X
-X XXXX      X X
-X XXXX XXXX X X
-X XXXX XXXX X X
-X X    XXXXXX X
-X X XXXXXXXXX X
-X X XXXXXXXXX X
-X X         X X
-X XXXXXXXXX   X
-XFXXXXXXXXXXXXX
-
 The Maze explorer is built to address the following requirements.
 
 User Story 1
