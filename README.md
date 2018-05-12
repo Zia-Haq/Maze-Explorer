@@ -5,8 +5,8 @@ A Maze Explorer built using C#.
 
 The project provides a simple way to navigate through the maze using the up/down and left/right arrow keys. Once maze successfully explores the path it will display the path taken by the explorer.
 
-The project is using the following maze as default but can be changed to any other maze in the text file located at "MazeExplorer.ConsoleApp\Resources\ExampleMaze.txt".
-______________________________________________________________
+The project is using a default maze but can be changed to any other maze in the text file located at "MazeExplorer.ConsoleApp\Resources\ExampleMaze.txt".
+
 XXXXXXXXXXXXXXX
 X             X
 X XXXXXXXXXXX X
@@ -22,7 +22,6 @@ X X XXXXXXXXX X
 X X         X X
 X XXXXXXXXX   X
 XFXXXXXXXXXXXXX
-_______________________________________________________________
 
 The Maze explorer is built to address the following requirements.
 
